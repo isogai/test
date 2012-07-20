@@ -1,6 +1,6 @@
 README.TXT
 
-VELVET SOURCE 
+SOURCE 
 March 28 2008
 Daniel Zerbino
 

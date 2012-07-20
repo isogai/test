@@ -1,4 +1,4 @@
-Most of the code in this package was written by myself (Daniel Zerbino).
+of the code in this package was written by myself (Daniel Zerbino).
 
 Sylvain Foret led the parallelization of the code and implemented
 modifications in the use of mate-pair reads.
